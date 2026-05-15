@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**asyashim/asyashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> Passionate and self-motivated aspiring Full Stack Developer with a strong interest in building modern and user-friendly web applications. Currently improving my skills in frontend and backend development through real-world projects and continuous learning. I enjoy exploring new technologies, solving problems, and creating clean, responsive, and meaningful digital experiences. Dedicated to consistency, growth, and becoming a better developer every day.
+>
+> Skills
+> HTML
+> CSS
+> JavaScript
+> Node.js
+> Mongo DB
+>
+> Goals
+- Build professional projects
+- Improve problem-solving skills
+- Contribute to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
