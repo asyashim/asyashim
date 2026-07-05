@@ -86,7 +86,7 @@ I'm a **Full Stack MERN Developer** passionate about building scalable, user-cen
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asyashim&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1)](https://github.com/asyashim)
 
 ### Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyashim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8)](https://github.com/asyashim)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyashim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8&hide=html,css)](https://github.com/asyashim)
 
 ### Contribution Graph
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asyashim&theme=github-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=a78bfa&point=a78bfa)](https://github.com/asyashim)
@@ -106,9 +106,9 @@ I'm a **Full Stack MERN Developer** passionate about building scalable, user-cen
 📈 Skills Development Roadmap
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✅ MERN Stack               [████████████████░░] Mastered
-✅ Redux Toolkit           [████████████████░░] Mastered
-✅ JWT Authentication      [████████████░░░░░░] Advanced
+✅ JavaScript               [████████████████░░] Expert
+✅ MERN Stack              [████████████████░░] Mastered
+✅ Node.js & Express       [████████████████░░] Advanced
 
 🔄 TypeScript              [████████░░░░░░░░░░] Learning
 🔄 Next.js                 [████████░░░░░░░░░░] Learning
