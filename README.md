@@ -6,7 +6,7 @@
   
   <p>
     <a href="https://github.com/asyashim"><img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/asyabi-cp"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/asyabi-cp-a16a36308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:asyabicp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EC4899?style=flat-square&logo=gmail&logoColor=white"/></a>
   </p>
 
@@ -130,8 +130,8 @@ I'm a **Full Stack MERN Developer** passionate about building scalable, user-cen
 | Platform | Link |
 |----------|------|
 | 🐙 **GitHub** | [github.com/asyashim](https://github.com/asyashim) |
-| 💼 **LinkedIn** | [linkedin.com/in/asyabi-cp](https://linkedin.com/in/asyabi-cp) |
-| 🏆 **LeetCode** | [leetcode.com/asyashim](https://leetcode.com/asyashim) |
+| 💼 **LinkedIn** | [linkedin.com/in/asyabi-cp-a16a36308](https://www.linkedin.com/in/asyabi-cp-a16a36308/) |
+| 🏆 **LeetCode** | [leetcode.com/u/AsyabiCP-8943](https://leetcode.com/u/AsyabiCP-8943/) |
 | ✉️ **Email** | [asyabicp@gmail.com](mailto:asyabicp@gmail.com) |
 
 </div>
