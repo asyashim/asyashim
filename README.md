@@ -7,7 +7,7 @@
   <p>
     <a href="https://github.com/asyashim"><img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
     <a href="https://linkedin.com/in/asyabi-cp"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:asyashi@example.com"><img src="https://img.shields.io/badge/Email-Contact-EC4899?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:asyabicp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EC4899?style=flat-square&logo=gmail&logoColor=white"/></a>
   </p>
 
 </div>
@@ -98,48 +98,6 @@ I'm a **Full Stack MERN Developer** passionate about building scalable, user-cen
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-### Project 1: E-Commerce Platform
-[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/asyashim/ecommerce-platform)
-[![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/asyashim/ecommerce-platform)
-[![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/asyashim/ecommerce-platform)
-[![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://github.com/asyashim/ecommerce-platform)
-
-A full-featured e-commerce application with product management, cart functionality, secure payments, and admin dashboard.
-
-[🔗 View Repository](https://github.com/asyashim/ecommerce-platform) | [🌐 Live Demo](https://ecommerce-platform.vercel.app)
-
----
-
-### Project 2: Task Management App
-[![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/asyashim/task-manager)
-[![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/asyashim/task-manager)
-[![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/asyashim/task-manager)
-[![](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/asyashim/task-manager)
-
-A modern task management application with real-time updates, user authentication, and collaborative features.
-
-[🔗 View Repository](https://github.com/asyashim/task-manager) | [🌐 Live Demo](https://task-manager.vercel.app)
-
----
-
-### Project 3: Social Media Dashboard
-[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/asyashim/social-dashboard)
-[![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/asyashim/social-dashboard)
-[![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/asyashim/social-dashboard)
-[![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/asyashim/social-dashboard)
-
-A comprehensive social media dashboard with analytics, user profiles, and real-time notifications.
-
-[🔗 View Repository](https://github.com/asyashim/social-dashboard) | [🌐 Live Demo](https://social-dashboard.vercel.app)
-
-</div>
-
----
-
 ## 📚 Learning Journey
 
 <div align="center">
@@ -174,7 +132,7 @@ A comprehensive social media dashboard with analytics, user profiles, and real-t
 | 🐙 **GitHub** | [github.com/asyashim](https://github.com/asyashim) |
 | 💼 **LinkedIn** | [linkedin.com/in/asyabi-cp](https://linkedin.com/in/asyabi-cp) |
 | 🏆 **LeetCode** | [leetcode.com/asyashim](https://leetcode.com/asyashim) |
-| ✉️ **Email** | [asyashi@example.com](mailto:asyashi@example.com) |
+| ✉️ **Email** | [asyabicp@gmail.com](mailto:asyabicp@gmail.com) |
 
 </div>
 
