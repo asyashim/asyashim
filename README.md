@@ -1,8 +1,8 @@
-# Hi there 👋 I am Asyabi C.P, MERN Stack Developer
+# 👋 Welcome to My Profile
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=💻+Full+Stack+MERN+Developer;⚛️+React+%26+Next.js+Developer;🛠️+Node.js+Backend+Developer;🚀+Lifelong+Learner)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+there,+I+am+Asyabi+C.P;💻+Full+Stack+MERN+Developer;⚛️+React+%26+Next.js+Developer;🛠️+Node.js+Backend+Developer;🚀+Lifelong+Learner)
   
   <p>
     <a href="https://github.com/asyashim"><img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
